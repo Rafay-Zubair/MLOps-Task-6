@@ -11,7 +11,7 @@
 ## Contribution Details
 
 ### Rafay Zubair
-- **Contribution** Initialized DVS repo and added initial dataset
+- **Contribution** Initialized DVC repo and added initial dataset
 
 ### Muhammad Subhan
 - **Contribution** Made changes to the dataset and pushed new data
